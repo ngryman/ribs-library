@@ -1,3 +1,9 @@
+#
+# ribs
+# Copyright (c) 2014 Nicolas Gryman <ngryman@gmail.com>
+# LGPL Licensed
+#
+
 {
     'variables': {
         'src%': '.',
